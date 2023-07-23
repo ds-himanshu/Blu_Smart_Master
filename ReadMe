@@ -1,0 +1,18 @@
+Blu-Smart UI:-
+URL:-  https://blu-smart.com/
+1.Explore The UI
+
+Issue:-
+Step to reproduce:-
+Enter url on chrome browser
+Click on drive with us
+Enter Invalid name :&&&&&&
+Enter Invalid email without domain name   :test.com
+Enter alphabet in no field
+See the error with all invalid driver details sending success pop up
+ScreenShot:-  https://prnt.sc/ESsWS_Am_Ebx
+
+
+
+Step 2:
+Create Git Repo:-  https://github.com/ds-himanshu/BluSmart_Master 
